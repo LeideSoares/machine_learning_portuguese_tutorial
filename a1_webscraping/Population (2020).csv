@@ -1,0 +1,224 @@
+paises,regioes,continentes,Population (2020),Yearly Change,Net Change,Density (P/Km²),Land Area (Km²),Migrants (net),Fert. Rate,Med. Age,Urban Pop %,World Share
+India,Southern Asia,Asia,1380004385.0,0.99,13586631.0,464.0,2973190.0,-532687.0,2.2,28.0,35.0,17.7
+Pakistan,Southern Asia,Asia,220892340.0,2.0,4327022.0,287.0,770880.0,-233379.0,3.6,23.0,35.0,2.83
+Bangladesh,Southern Asia,Asia,164689383.0,1.01,1643222.0,1265.0,130170.0,-369501.0,2.1,28.0,39.0,2.11
+Iran,Southern Asia,Asia,83992949.0,1.3,1079043.0,52.0,1628550.0,-55000.0,2.2,32.0,76.0,1.08
+Afghanistan,Southern Asia,Asia,38928346.0,2.33,886592.0,60.0,652860.0,-62920.0,4.6,18.0,25.0,0.5
+Nepal,Southern Asia,Asia,29136808.0,1.85,528098.0,203.0,143350.0,41710.0,1.9,25.0,21.0,0.37
+Sri Lanka,Southern Asia,Asia,21413249.0,0.42,89516.0,341.0,62710.0,-97986.0,2.2,34.0,18.0,0.27
+Bhutan,Southern Asia,Asia,771608.0,1.12,8516.0,20.0,38117.0,320.0,2.0,28.0,46.0,0.01
+Maldives,Southern Asia,Asia,540544.0,1.81,9591.0,1802.0,300.0,11370.0,1.9,30.0,35.0,0.01
+China,Eastern Asia,Asia,1439323776.0,0.39,5540090.0,153.0,9388211.0,-348399.0,1.7,38.0,61.0,18.47
+Japan,Eastern Asia,Asia,126476461.0,-0.3,-383840.0,347.0,364555.0,71560.0,1.4,48.0,92.0,1.62
+South Korea,Eastern Asia,Asia,51269185.0,0.09,43877.0,527.0,97230.0,11731.0,1.1,44.0,82.0,0.66
+North Korea,Eastern Asia,Asia,25778816.0,0.44,112655.0,214.0,120410.0,-5403.0,1.9,35.0,63.0,0.33
+Taiwan,Eastern Asia,Asia,23816775.0,0.18,42899.0,673.0,35410.0,30001.0,1.2,42.0,79.0,0.31
+Hong Kong,Eastern Asia,Asia,7496981.0,0.82,60827.0,7140.0,1050.0,29308.0,1.3,45.0,,0.1
+Mongolia,Eastern Asia,Asia,3278290.0,1.65,53123.0,2.0,1553560.0,-852.0,2.9,28.0,67.0,0.04
+Macao,Eastern Asia,Asia,649335.0,1.39,8890.0,21645.0,30.0,5000.0,1.2,39.0,,0.01
+Indonesia,South-Eastern Asia,Asia,273523615.0,1.07,2898047.0,151.0,1811570.0,-98955.0,2.3,30.0,56.0,3.51
+Philippines,South-Eastern Asia,Asia,109581078.0,1.35,1464463.0,368.0,298170.0,-67152.0,2.6,26.0,47.0,1.41
+Vietnam,South-Eastern Asia,Asia,97338579.0,0.91,876473.0,314.0,310070.0,-80000.0,2.1,32.0,38.0,1.25
+Thailand,South-Eastern Asia,Asia,69799978.0,0.25,174396.0,137.0,510890.0,19444.0,1.5,40.0,51.0,0.9
+Myanmar,South-Eastern Asia,Asia,54409800.0,0.67,364380.0,83.0,653290.0,-163313.0,2.2,29.0,31.0,0.7
+Malaysia,South-Eastern Asia,Asia,32365999.0,1.3,416222.0,99.0,328550.0,50000.0,2.0,30.0,78.0,0.42
+Cambodia,South-Eastern Asia,Asia,16718965.0,1.41,232423.0,95.0,176520.0,-30000.0,2.5,26.0,24.0,0.21
+Laos,South-Eastern Asia,Asia,7275560.0,1.48,106105.0,32.0,230800.0,-14704.0,2.7,24.0,36.0,0.09
+Singapore,South-Eastern Asia,Asia,5850342.0,0.79,46005.0,8358.0,700.0,27028.0,1.2,42.0,,0.08
+Timor-Leste,South-Eastern Asia,Asia,1318445.0,1.96,25326.0,89.0,14870.0,-5385.0,4.1,21.0,33.0,0.02
+Uzbekistan,Central Asia,Asia,33469203.0,1.48,487487.0,79.0,425400.0,-8863.0,2.4,28.0,50.0,0.43
+Kazakhstan,Central Asia,Asia,18776707.0,1.21,225280.0,7.0,2699700.0,-18000.0,2.8,31.0,58.0,0.24
+Tajikistan,Central Asia,Asia,9537645.0,2.32,216627.0,68.0,139960.0,-20000.0,3.6,22.0,27.0,0.12
+Kyrgyzstan,Central Asia,Asia,6524195.0,1.69,108345.0,34.0,191800.0,-4000.0,3.0,26.0,36.0,0.08
+Turkmenistan,Central Asia,Asia,6031200.0,1.5,89111.0,13.0,469930.0,-5000.0,2.8,27.0,53.0,0.08
+Turkey,Western Asia,Asia,84339067.0,1.09,909452.0,110.0,769630.0,283922.0,2.1,32.0,76.0,1.08
+Iraq,Western Asia,Asia,40222493.0,2.32,912710.0,93.0,434320.0,7834.0,3.7,21.0,73.0,0.52
+Saudi Arabia,Western Asia,Asia,34813871.0,1.59,545343.0,16.0,2149690.0,134979.0,2.3,32.0,84.0,0.45
+Yemen,Western Asia,Asia,29825964.0,2.28,664042.0,56.0,527970.0,-30000.0,3.8,20.0,38.0,0.38
+Syria,Western Asia,Asia,17500658.0,2.52,430523.0,95.0,183630.0,-427391.0,2.8,26.0,60.0,0.22
+Azerbaijan,Western Asia,Asia,10139177.0,0.91,91459.0,123.0,82658.0,1200.0,2.1,32.0,56.0,0.13
+United Arab Emirates,Western Asia,Asia,9890402.0,1.23,119873.0,118.0,83600.0,40000.0,1.4,33.0,86.0,0.13
+Israel,Western Asia,Asia,8655535.0,1.6,136158.0,400.0,21640.0,10000.0,3.0,30.0,93.0,0.11
+Jordan,Western Asia,Asia,10203134.0,1.0,101440.0,115.0,88780.0,10220.0,2.8,24.0,91.0,0.13
+Lebanon,Western Asia,Asia,6825445.0,-0.44,-30268.0,667.0,10230.0,-30012.0,2.1,30.0,78.0,0.09
+State of Palestine,Western Asia,Asia,5101414.0,2.41,119994.0,847.0,6020.0,-10563.0,3.7,21.0,80.0,0.07
+Oman,Western Asia,Asia,5106626.0,2.65,131640.0,16.0,309500.0,87400.0,2.9,31.0,87.0,0.07
+Kuwait,Western Asia,Asia,4270571.0,1.51,63488.0,240.0,17820.0,39520.0,2.1,37.0,,0.05
+Georgia,Western Asia,Asia,3989167.0,-0.19,-7598.0,57.0,69490.0,-10000.0,2.1,38.0,58.0,0.05
+Armenia,Western Asia,Asia,2963243.0,0.19,5512.0,104.0,28470.0,-4998.0,1.8,35.0,63.0,0.04
+Qatar,Western Asia,Asia,2881053.0,1.73,48986.0,248.0,11610.0,40000.0,1.9,32.0,96.0,0.04
+Bahrain,Western Asia,Asia,1701575.0,3.68,60403.0,2239.0,760.0,47800.0,2.0,32.0,89.0,0.02
+Cyprus,Western Asia,Asia,1207359.0,0.73,8784.0,131.0,9240.0,5000.0,1.3,37.0,67.0,0.02
+Nigeria,Western Africa,Africa,206139589.0,2.58,5175990.0,226.0,910770.0,-60000.0,5.4,18.0,52.0,2.64
+Ghana,Western Africa,Africa,31072940.0,2.15,655084.0,137.0,227540.0,-10000.0,3.9,22.0,57.0,0.4
+Côte d'Ivoire,Western Africa,Africa,26378274.0,2.57,661730.0,83.0,318000.0,-8000.0,4.7,19.0,51.0,0.34
+Niger,Western Africa,Africa,24206644.0,3.84,895929.0,19.0,1266700.0,4000.0,7.0,15.0,17.0,0.31
+Burkina Faso,Western Africa,Africa,20903273.0,2.86,581895.0,76.0,273600.0,-25000.0,5.2,18.0,31.0,0.27
+Mali,Western Africa,Africa,20250833.0,3.02,592802.0,17.0,1220190.0,-40000.0,5.9,16.0,44.0,0.26
+Senegal,Western Africa,Africa,16743927.0,2.75,447563.0,87.0,192530.0,-20000.0,4.7,19.0,49.0,0.21
+Guinea,Western Africa,Africa,13132795.0,2.83,361549.0,53.0,245720.0,-4000.0,4.7,18.0,39.0,0.17
+Benin,Western Africa,Africa,12123200.0,2.73,322049.0,108.0,112760.0,-2000.0,4.9,19.0,48.0,0.16
+Togo,Western Africa,Africa,8278724.0,2.43,196358.0,152.0,54390.0,-2000.0,4.4,19.0,43.0,0.11
+Sierra Leone,Western Africa,Africa,7976983.0,2.1,163768.0,111.0,72180.0,-4200.0,4.3,19.0,43.0,0.1
+Liberia,Western Africa,Africa,5057681.0,2.44,120307.0,53.0,96320.0,-5000.0,4.4,19.0,53.0,0.06
+Mauritania,Western Africa,Africa,4649658.0,2.74,123962.0,5.0,1030700.0,5000.0,4.6,20.0,57.0,0.06
+Gambia,Western Africa,Africa,2416668.0,2.94,68962.0,239.0,10120.0,-3087.0,5.3,18.0,59.0,0.03
+Guinea-Bissau,Western Africa,Africa,1968001.0,2.45,47079.0,70.0,28120.0,-1399.0,4.5,19.0,45.0,0.03
+Cabo Verde,Western Africa,Africa,555987.0,1.1,6052.0,138.0,4030.0,-1342.0,2.3,28.0,68.0,0.01
+Saint Helena,Western Africa,Africa,6077.0,0.3,18.0,16.0,390.0,,,,27.0,0.0
+Ethiopia,Eastern Africa,Africa,114963588.0,2.57,2884858.0,115.0,1000000.0,30000.0,4.3,19.0,21.0,1.47
+Tanzania,Eastern Africa,Africa,59734218.0,2.98,1728755.0,67.0,885800.0,-40076.0,4.9,18.0,37.0,0.77
+Kenya,Eastern Africa,Africa,53771296.0,2.28,1197323.0,94.0,569140.0,-10000.0,3.5,20.0,28.0,0.69
+Uganda,Eastern Africa,Africa,45741007.0,3.32,1471413.0,229.0,199810.0,168694.0,5.0,17.0,26.0,0.59
+Mozambique,Eastern Africa,Africa,31255435.0,2.93,889399.0,40.0,786380.0,-5000.0,4.9,18.0,38.0,0.4
+Madagascar,Eastern Africa,Africa,27691018.0,2.68,721711.0,48.0,581795.0,-1500.0,4.1,20.0,39.0,0.36
+Malawi,Eastern Africa,Africa,19129952.0,2.69,501205.0,203.0,94280.0,-16053.0,4.3,18.0,18.0,0.25
+Zambia,Eastern Africa,Africa,18383955.0,2.93,522925.0,25.0,743390.0,-8000.0,4.7,18.0,45.0,0.24
+Zimbabwe,Eastern Africa,Africa,14862924.0,1.48,217456.0,38.0,386850.0,-116858.0,3.6,19.0,38.0,0.19
+South Sudan,Eastern Africa,Africa,11193725.0,1.19,131612.0,18.0,610952.0,-174200.0,4.7,19.0,25.0,0.14
+Rwanda,Eastern Africa,Africa,12952218.0,2.58,325268.0,525.0,24670.0,-9000.0,4.1,20.0,18.0,0.17
+Burundi,Eastern Africa,Africa,11890784.0,3.12,360204.0,463.0,25680.0,2001.0,5.5,17.0,14.0,0.15
+Somalia,Eastern Africa,Africa,15893222.0,2.92,450317.0,25.0,627340.0,-40000.0,6.1,17.0,47.0,0.2
+Eritrea,Eastern Africa,Africa,3546421.0,1.41,49304.0,35.0,101000.0,-39858.0,4.1,19.0,63.0,0.05
+Mauritius,Eastern Africa,Africa,1271768.0,0.17,2100.0,626.0,2030.0,0.0,1.4,37.0,41.0,0.02
+Djibouti,Eastern Africa,Africa,988000.0,1.48,14440.0,43.0,23180.0,900.0,2.8,27.0,79.0,0.01
+Réunion,Eastern Africa,Africa,895312.0,0.72,6385.0,358.0,2500.0,-1256.0,2.3,36.0,100.0,0.01
+Comoros,Eastern Africa,Africa,869601.0,2.2,18715.0,467.0,1861.0,-2000.0,4.2,20.0,29.0,0.01
+Mayotte,Eastern Africa,Africa,272815.0,2.5,6665.0,728.0,375.0,0.0,3.7,20.0,46.0,0.0
+Seychelles,Eastern Africa,Africa,98347.0,0.62,608.0,214.0,460.0,-200.0,2.5,34.0,56.0,0.0
+Egypt,Northern Africa,Africa,102334404.0,1.94,1946331.0,103.0,995450.0,-38033.0,3.3,25.0,43.0,1.31
+Sudan,Northern Africa,Africa,43849260.0,2.42,1036022.0,25.0,1765048.0,-50000.0,4.4,20.0,35.0,0.56
+Algeria,Northern Africa,Africa,43851044.0,1.85,797990.0,18.0,2381740.0,-10000.0,3.1,29.0,73.0,0.56
+Morocco,Northern Africa,Africa,36910560.0,1.2,438791.0,83.0,446300.0,-51419.0,2.4,30.0,64.0,0.47
+Tunisia,Northern Africa,Africa,11818619.0,1.06,123900.0,76.0,155360.0,-4000.0,2.2,33.0,70.0,0.15
+Libya,Northern Africa,Africa,6871292.0,1.38,93840.0,4.0,1759540.0,-1999.0,2.3,29.0,78.0,0.09
+Western Sahara,Northern Africa,Africa,597339.0,2.55,14876.0,2.0,266000.0,5582.0,2.4,28.0,87.0,0.01
+South Africa,Southern Africa,Africa,59308690.0,1.28,750420.0,49.0,1213090.0,145405.0,2.4,28.0,67.0,0.76
+Namibia,Southern Africa,Africa,2540905.0,1.86,46375.0,3.0,823290.0,-4806.0,3.4,22.0,55.0,0.03
+Botswana,Southern Africa,Africa,2351627.0,2.08,47930.0,4.0,566730.0,3000.0,2.9,24.0,73.0,0.03
+Lesotho,Southern Africa,Africa,2142249.0,0.8,16981.0,71.0,30360.0,-10047.0,3.2,24.0,31.0,0.03
+Angola,Middle Africa,Africa,32866272.0,3.27,1040977.0,26.0,1246700.0,6413.0,5.6,17.0,67.0,0.42
+Cameroon,Middle Africa,Africa,26545863.0,2.59,669483.0,56.0,472710.0,-4800.0,4.6,19.0,56.0,0.34
+Chad,Middle Africa,Africa,16425864.0,3.0,478988.0,13.0,1259200.0,2000.0,5.8,17.0,23.0,0.21
+Central African Republic,Middle Africa,Africa,4829767.0,1.78,84582.0,8.0,622980.0,-40000.0,4.8,18.0,43.0,0.06
+Congo,Middle Africa,Africa,5518087.0,2.56,137579.0,16.0,341500.0,-4000.0,4.5,19.0,70.0,0.07
+Gabon,Middle Africa,Africa,2225734.0,2.45,53155.0,9.0,257670.0,3260.0,4.0,23.0,87.0,0.03
+Equatorial Guinea,Middle Africa,Africa,1402985.0,3.47,46999.0,50.0,28050.0,16000.0,4.6,22.0,73.0,0.02
+Sao Tome & Principe,Middle Africa,Africa,219159.0,1.91,4103.0,228.0,960.0,-1680.0,4.4,19.0,74.0,0.0
+Germany,Western Europe,Europe,83783942.0,0.32,266897.0,240.0,348560.0,543822.0,1.6,46.0,76.0,1.07
+France,Western Europe,Europe,65273511.0,0.22,143783.0,119.0,547557.0,36527.0,1.9,42.0,82.0,0.84
+Netherlands,Western Europe,Europe,17134872.0,0.22,37742.0,508.0,33720.0,16000.0,1.7,43.0,92.0,0.22
+Belgium,Western Europe,Europe,11589623.0,0.44,50295.0,383.0,30280.0,48000.0,1.7,42.0,98.0,0.15
+Austria,Western Europe,Europe,9006398.0,0.57,51296.0,109.0,82409.0,65000.0,1.5,43.0,57.0,0.12
+Switzerland,Western Europe,Europe,8654622.0,0.74,63257.0,219.0,39516.0,52000.0,1.5,43.0,74.0,0.11
+Luxembourg,Western Europe,Europe,625978.0,1.66,10249.0,242.0,2590.0,9741.0,1.5,40.0,88.0,0.01
+Monaco,Western Europe,Europe,39242.0,0.71,278.0,26337.0,1.0,,,,,0.0
+Liechtenstein,Western Europe,Europe,38128.0,0.29,109.0,238.0,160.0,,,,15.0,0.0
+Russia,Eastern Europe,Europe,145934462.0,0.04,62206.0,9.0,16376870.0,182456.0,1.8,40.0,74.0,1.87
+Ukraine,Eastern Europe,Europe,43733762.0,-0.59,-259876.0,75.0,579320.0,10000.0,1.4,41.0,69.0,0.56
+Poland,Eastern Europe,Europe,37846611.0,-0.11,-41157.0,124.0,306230.0,-29395.0,1.4,42.0,60.0,0.49
+Romania,Eastern Europe,Europe,19237691.0,-0.66,-126866.0,84.0,230170.0,-73999.0,1.6,43.0,55.0,0.25
+Hungary,Eastern Europe,Europe,9660351.0,-0.25,-24328.0,107.0,90530.0,6000.0,1.5,43.0,72.0,0.12
+Belarus,Eastern Europe,Europe,9449323.0,-0.03,-3088.0,47.0,202910.0,8730.0,1.7,40.0,79.0,0.12
+Bulgaria,Eastern Europe,Europe,6948445.0,-0.74,-51674.0,64.0,108560.0,-4800.0,1.6,45.0,76.0,0.09
+Slovakia,Eastern Europe,Europe,5459642.0,0.05,2629.0,114.0,48088.0,1485.0,1.5,41.0,54.0,0.07
+Moldova,Eastern Europe,Europe,4033963.0,-0.23,-9300.0,123.0,32850.0,-1387.0,1.3,38.0,43.0,0.05
+United Kingdom,Northern Europe,Europe,67886011.0,0.53,355839.0,281.0,241930.0,260650.0,1.8,40.0,83.0,0.87
+Sweden,Northern Europe,Europe,10099265.0,0.63,62886.0,25.0,410340.0,40000.0,1.9,41.0,88.0,0.13
+Denmark,Northern Europe,Europe,5792202.0,0.35,20326.0,137.0,42430.0,15200.0,1.8,42.0,88.0,0.07
+Finland,Northern Europe,Europe,5540720.0,0.15,8564.0,18.0,303890.0,14000.0,1.5,43.0,86.0,0.07
+Norway,Northern Europe,Europe,5421241.0,0.79,42384.0,15.0,365268.0,28000.0,1.7,40.0,83.0,0.07
+Ireland,Northern Europe,Europe,4937786.0,1.13,55291.0,72.0,68890.0,23604.0,1.8,38.0,63.0,0.06
+Lithuania,Northern Europe,Europe,2722289.0,-1.35,-37338.0,43.0,62674.0,-32780.0,1.7,45.0,71.0,0.03
+Latvia,Northern Europe,Europe,1886198.0,-1.08,-20545.0,30.0,62200.0,-14837.0,1.7,44.0,69.0,0.02
+Estonia,Northern Europe,Europe,1326535.0,0.07,887.0,31.0,42390.0,3911.0,1.6,42.0,68.0,0.02
+Iceland,Northern Europe,Europe,341243.0,0.65,2212.0,3.0,100250.0,380.0,1.8,37.0,94.0,0.0
+Channel Islands,Northern Europe,Europe,173863.0,0.93,1604.0,915.0,190.0,1351.0,1.5,43.0,30.0,0.0
+Isle of Man,Northern Europe,Europe,85033.0,0.53,449.0,149.0,570.0,,,,53.0,0.0
+Faeroe Islands,Northern Europe,Europe,48863.0,0.38,185.0,35.0,1396.0,,,,43.0,0.0
+Italy,Southern Europe,Europe,60461826.0,-0.15,-88249.0,206.0,294140.0,148943.0,1.3,47.0,69.0,0.78
+Spain,Southern Europe,Europe,46754778.0,0.04,18002.0,94.0,498800.0,40000.0,1.3,45.0,80.0,0.6
+Greece,Southern Europe,Europe,10423054.0,-0.48,-50401.0,81.0,128900.0,-16000.0,1.3,46.0,85.0,0.13
+Portugal,Southern Europe,Europe,10196709.0,-0.29,-29478.0,111.0,91590.0,-6000.0,1.3,46.0,66.0,0.13
+Serbia,Southern Europe,Europe,8737371.0,-0.4,-34864.0,100.0,87460.0,4000.0,1.5,42.0,56.0,0.11
+Croatia,Southern Europe,Europe,4105267.0,-0.61,-25037.0,73.0,55960.0,-8001.0,1.4,44.0,58.0,0.05
+Bosnia and Herzegovina,Southern Europe,Europe,3280819.0,-0.61,-20181.0,64.0,51000.0,-21585.0,1.3,43.0,52.0,0.04
+Albania,Southern Europe,Europe,2877797.0,-0.11,-3120.0,105.0,27400.0,-14000.0,1.6,36.0,63.0,0.04
+North Macedonia,Southern Europe,Europe,2083374.0,0.0,-85.0,83.0,25220.0,-1000.0,1.5,39.0,59.0,0.03
+Slovenia,Southern Europe,Europe,2078938.0,0.01,284.0,103.0,20140.0,2000.0,1.6,45.0,55.0,0.03
+Montenegro,Southern Europe,Europe,628066.0,0.01,79.0,47.0,13450.0,-480.0,1.8,39.0,68.0,0.01
+Malta,Southern Europe,Europe,441543.0,0.27,1171.0,1380.0,320.0,900.0,1.5,43.0,93.0,0.01
+Andorra,Southern Europe,Europe,77265.0,0.16,123.0,164.0,470.0,,,,88.0,0.0
+Gibraltar,Southern Europe,Europe,33691.0,-0.03,-10.0,3369.0,10.0,,,,,0.0
+San Marino,Southern Europe,Europe,33931.0,0.21,71.0,566.0,60.0,,,,97.0,0.0
+Holy See,Southern Europe,Europe,801.0,0.25,2.0,2003.0,0.0,,,,,0.0
+Brazil,South America,Latin America and the Caribbean,212559417.0,0.72,1509890.0,25.0,8358140.0,21200.0,1.7,33.0,88.0,2.73
+Colombia,South America,Latin America and the Caribbean,50882891.0,1.08,543448.0,46.0,1109500.0,204796.0,1.8,31.0,80.0,0.65
+Argentina,South America,Latin America and the Caribbean,45195774.0,0.93,415097.0,17.0,2736690.0,4800.0,2.3,32.0,93.0,0.58
+Peru,South America,Latin America and the Caribbean,32971854.0,1.42,461401.0,26.0,1280000.0,99069.0,2.3,31.0,79.0,0.42
+Venezuela,South America,Latin America and the Caribbean,28435940.0,-0.28,-79889.0,32.0,882050.0,-653249.0,2.3,30.0,,0.36
+Chile,South America,Latin America and the Caribbean,19116201.0,0.87,164163.0,26.0,743532.0,111708.0,1.7,35.0,85.0,0.25
+Ecuador,South America,Latin America and the Caribbean,17643054.0,1.55,269392.0,71.0,248360.0,36400.0,2.4,28.0,63.0,0.23
+Bolivia,South America,Latin America and the Caribbean,11673021.0,1.39,159921.0,11.0,1083300.0,-9504.0,2.8,26.0,69.0,0.15
+Paraguay,South America,Latin America and the Caribbean,7132538.0,1.25,87902.0,18.0,397300.0,-16556.0,2.4,26.0,62.0,0.09
+Uruguay,South America,Latin America and the Caribbean,3473730.0,0.35,11996.0,20.0,175020.0,-3000.0,2.0,36.0,96.0,0.04
+Guyana,South America,Latin America and the Caribbean,786552.0,0.48,3786.0,4.0,196850.0,-6000.0,2.5,27.0,27.0,0.01
+Suriname,South America,Latin America and the Caribbean,586632.0,0.9,5260.0,4.0,156000.0,-1000.0,2.4,29.0,65.0,0.01
+French Guiana,South America,Latin America and the Caribbean,298682.0,2.7,7850.0,4.0,82200.0,1200.0,3.4,25.0,87.0,0.0
+Falkland Islands,South America,Latin America and the Caribbean,3480.0,3.05,103.0,0.0,12170.0,,,,66.0,0.0
+Mexico,Central America,Latin America and the Caribbean,128932753.0,1.06,1357224.0,66.0,1943950.0,-60000.0,2.1,29.0,84.0,1.65
+Guatemala,Central America,Latin America and the Caribbean,17915568.0,1.9,334096.0,167.0,107160.0,-9215.0,2.9,23.0,52.0,0.23
+Honduras,Central America,Latin America and the Caribbean,9904607.0,1.63,158490.0,89.0,111890.0,-6800.0,2.5,24.0,57.0,0.13
+Nicaragua,Central America,Latin America and the Caribbean,6624554.0,1.21,79052.0,55.0,120340.0,-21272.0,2.4,26.0,57.0,0.08
+El Salvador,Central America,Latin America and the Caribbean,6486205.0,0.51,32652.0,313.0,20720.0,-40539.0,2.1,28.0,73.0,0.08
+Costa Rica,Central America,Latin America and the Caribbean,5094118.0,0.92,46557.0,100.0,51060.0,4200.0,1.8,33.0,80.0,0.07
+Panama,Central America,Latin America and the Caribbean,4314767.0,1.61,68328.0,58.0,74340.0,11200.0,2.5,30.0,68.0,0.06
+Belize,Central America,Latin America and the Caribbean,397628.0,1.86,7275.0,17.0,22810.0,1200.0,2.3,25.0,46.0,0.01
+Cuba,Caribbean,Latin America and the Caribbean,11326616.0,-0.06,-6867.0,106.0,106440.0,-14400.0,1.6,42.0,78.0,0.15
+Haiti,Caribbean,Latin America and the Caribbean,11402528.0,1.24,139451.0,414.0,27560.0,-35000.0,3.0,24.0,57.0,0.15
+Dominican Republic,Caribbean,Latin America and the Caribbean,10847910.0,1.01,108952.0,225.0,48320.0,-30000.0,2.4,28.0,85.0,0.14
+Puerto Rico,Caribbean,Latin America and the Caribbean,2860853.0,-2.47,-72555.0,323.0,8870.0,-97986.0,1.2,44.0,,0.04
+Jamaica,Caribbean,Latin America and the Caribbean,2961167.0,0.44,12888.0,273.0,10830.0,-11332.0,2.0,31.0,55.0,0.04
+Trinidad and Tobago,Caribbean,Latin America and the Caribbean,1399488.0,0.32,4515.0,273.0,5130.0,-800.0,1.7,36.0,52.0,0.02
+Guadeloupe,Caribbean,Latin America and the Caribbean,400124.0,0.02,68.0,237.0,1690.0,-1440.0,2.2,44.0,,0.01
+Martinique,Caribbean,Latin America and the Caribbean,375265.0,-0.08,-289.0,354.0,1060.0,-960.0,1.9,47.0,92.0,0.0
+Bahamas,Caribbean,Latin America and the Caribbean,393244.0,0.97,3762.0,39.0,10010.0,1000.0,1.8,32.0,86.0,0.01
+Barbados,Caribbean,Latin America and the Caribbean,287375.0,0.12,350.0,668.0,430.0,-79.0,1.6,40.0,31.0,0.0
+Saint Lucia,Caribbean,Latin America and the Caribbean,183627.0,0.46,837.0,301.0,610.0,0.0,1.4,34.0,19.0,0.0
+Curaçao,Caribbean,Latin America and the Caribbean,164093.0,0.41,669.0,370.0,444.0,515.0,1.8,42.0,89.0,0.0
+Grenada,Caribbean,Latin America and the Caribbean,112523.0,0.46,520.0,331.0,340.0,-200.0,2.1,32.0,35.0,0.0
+Aruba,Caribbean,Latin America and the Caribbean,106766.0,0.43,452.0,593.0,180.0,201.0,1.9,41.0,44.0,0.0
+Antigua and Barbuda,Caribbean,Latin America and the Caribbean,97929.0,0.84,811.0,223.0,440.0,0.0,2.0,34.0,26.0,0.0
+Dominica,Caribbean,Latin America and the Caribbean,71986.0,0.25,178.0,96.0,750.0,,,,74.0,0.0
+Cayman Islands,Caribbean,Latin America and the Caribbean,65722.0,1.19,774.0,274.0,240.0,,,,97.0,0.0
+Sint Maarten,Caribbean,Latin America and the Caribbean,42876.0,1.15,488.0,1261.0,34.0,,,,96.0,0.0
+Saint Martin,Caribbean,Latin America and the Caribbean,38666.0,1.75,664.0,730.0,53.0,,,,0.0,0.0
+British Virgin Islands,Caribbean,Latin America and the Caribbean,30231.0,0.67,201.0,202.0,150.0,,,,52.0,0.0
+Caribbean Netherlands,Caribbean,Latin America and the Caribbean,26223.0,0.94,244.0,80.0,328.0,,,,75.0,0.0
+Anguilla,Caribbean,Latin America and the Caribbean,15003.0,0.9,134.0,167.0,90.0,,,,,0.0
+Montserrat,Caribbean,Latin America and the Caribbean,4992.0,0.06,3.0,50.0,100.0,,,,10.0,0.0
+United States,Northern America,Northern America,331002651.0,0.59,1937734.0,36.0,9147420.0,954806.0,1.8,38.0,83.0,4.25
+Canada,Northern America,Northern America,37742154.0,0.89,331107.0,4.0,9093510.0,242032.0,1.5,41.0,81.0,0.48
+Bermuda,Northern America,Northern America,62278.0,-0.36,-228.0,1246.0,50.0,,,,97.0,0.0
+Greenland,Northern America,Northern America,56770.0,0.17,98.0,0.0,410450.0,,,,87.0,0.0
+Australia,Australia & New Zealand,Oceania,25499884.0,1.18,296686.0,3.0,7682300.0,158246.0,1.8,38.0,86.0,0.33
+New Zealand,Australia & New Zealand,Oceania,4822233.0,0.82,39170.0,18.0,263310.0,14881.0,1.9,38.0,87.0,0.06
+Papua New Guinea,Melanesia,Oceania,8947024.0,1.95,170915.0,20.0,452860.0,-800.0,3.6,22.0,13.0,0.11
+Fiji,Melanesia,Oceania,896445.0,0.73,6492.0,49.0,18270.0,-6202.0,2.8,28.0,59.0,0.01
+Solomon Islands,Melanesia,Oceania,686884.0,2.55,17061.0,25.0,27990.0,-1600.0,4.4,20.0,23.0,0.01
+Vanuatu,Melanesia,Oceania,307145.0,2.42,7263.0,25.0,12190.0,120.0,3.8,21.0,24.0,0.0
+New Caledonia,Melanesia,Oceania,285498.0,0.97,2748.0,16.0,18280.0,502.0,2.0,34.0,72.0,0.0
+French Polynesia,Polynesia,Oceania,280908.0,0.58,1621.0,77.0,3660.0,-1000.0,2.0,34.0,64.0,0.0
+Samoa,Polynesia,Oceania,198414.0,0.67,1317.0,70.0,2830.0,-2803.0,3.9,22.0,18.0,0.0
+Tonga,Polynesia,Oceania,105695.0,1.15,1201.0,147.0,720.0,-800.0,3.6,22.0,24.0,0.0
+American Samoa,Polynesia,Oceania,55191.0,-0.22,-121.0,276.0,200.0,,,,88.0,0.0
+Cook Islands,Polynesia,Oceania,17564.0,0.09,16.0,73.0,240.0,,,,75.0,0.0
+Tuvalu,Polynesia,Oceania,11792.0,1.25,146.0,393.0,30.0,,,,62.0,0.0
+Niue,Polynesia,Oceania,1626.0,0.68,11.0,6.0,260.0,,,,46.0,0.0
+Tokelau,Polynesia,Oceania,1357.0,1.27,17.0,136.0,10.0,,,,0.0,0.0
+Guam,Micronesia,Oceania,168775.0,0.89,1481.0,313.0,540.0,-506.0,2.3,31.0,95.0,0.0
+Kiribati,Micronesia,Oceania,119449.0,1.57,1843.0,147.0,810.0,-800.0,3.6,23.0,57.0,0.0
+Northern Mariana Islands,Micronesia,Oceania,57559.0,0.6,343.0,125.0,460.0,,,,88.0,0.0
+Marshall Islands,Micronesia,Oceania,59190.0,0.68,399.0,329.0,180.0,,,,70.0,0.0
+Palau,Micronesia,Oceania,18094.0,0.48,86.0,39.0,460.0,,,,,0.0
+Nauru,Micronesia,Oceania,10824.0,0.63,68.0,541.0,20.0,,,,,0.0
