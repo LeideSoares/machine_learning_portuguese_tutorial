@@ -1,5 +1,9 @@
 # machine_learning_portuguese_tutorial
+# Project
+This is a tutorial project of machine learning techniques and algorithms, and use case example of the application of learning algorithms in multiple industries.
 ## Aims 
+
+
 The aim of this project is illustrate, share and teach techniques and Machine Learning Algorithms in community of Portuguese speaker countries; showing general advantage to of those approaches and usecase in multiples industry.
 
 ## Objectivo (Portugues)
