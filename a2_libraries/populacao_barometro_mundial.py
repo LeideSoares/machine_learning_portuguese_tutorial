@@ -66,7 +66,7 @@ class EvolucaoPopulacionalBM:
         
         if type(self.urls) == str:
             try:
-                return pd.concat([df, self.extrair_dados(self.urls)])
+                return self.extrair_dados(self.urls)
             except:
                 print('Verifique a url (website link de Worldometers)')
             
